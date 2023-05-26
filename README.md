@@ -8,7 +8,7 @@
 <h1 align="center"> Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h2 align="center"> Data Enthusiast / Python Developer  
+<h2 align="center"> Data Engineer  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h2>
 👋Salut, je suis @Nelly-98
@@ -63,7 +63,7 @@
 ## Contacts :
 <div align="center">
   <a href="mailto:ismaelcoulibaly616@gmail.com" target="_blank"><img src="https://www.svgrepo.com/show/223047/gmail.svg" title=" My Gmail" alt="Gmail" width="60" height="60"/></a>&nbsp;
- <a href="https://www.linkedin.com/in/ismael-coulibaly/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
+ <a href="https://www.linkedin.com/in/nelly_guepnang/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg " title=" My LinkedIn" alt="LinkedIn" width="60" height="60"></a>&nbsp;
  </div>
  
 ---
@@ -71,21 +71,21 @@
 ## 🔥 My Stats :
   
   <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=ismael616&count_private=true&show_icons=true&theme=algolia"  alt="Ismael616 Github stats card"> </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats"> <img  src="https://github-readme-stats.vercel.app/api?username=Nelly-98&count_private=true&show_icons=true&theme=algolia"  alt="Ismael616 Github stats card"> </a>
   </p>
   
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ismael616&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D" alt="Ismael616 Streaks"> </a>    
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Nelly-98&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D" alt="Nelly-98 Streaks"> </a>    
 </p>
 
 <div align="center">
 <h3>Leet Code</h3>
 <a href="https://leetcode.com/LAzyT/"><img src="https://leetcode.card.workers.dev/LazyT?theme=dark&font=baloo&extension=null" alt="Leet code Stats"></a> 
 <h3>Code Wars</h3>
-<a href="https://www.codewars.com/users/Ismael616"><img src="https://www.codewars.com/users/Ismael616/badges/large" alt="Code Wars"></a>
+<a href="https://www.codewars.com/users/Ismael616"><img src="https://www.codewars.com/users/Nelly-98/badges/large" alt="Code Wars"></a>
 </div>
  
  <br/>
 <p align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismael616&theme=algolia" alt="Ismael616 Most used languages"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nelly-98&theme=algolia" alt="Nelly-98 Most used languages"></a>
 </p>
