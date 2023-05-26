@@ -1,4 +1,6 @@
-
+<div id="profile views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismael616&style=flat-square&color=blue" alt="profile views"/>
+</div>
 👋Salut, je suis @Nelly-98
 
 👀Je suis intéressé par les métiers Data-Analyst, Data-Scientist
