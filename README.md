@@ -1,6 +1,16 @@
-<div id="profile views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nelly-98&style=flat-square&color=blue" alt="profile views"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" />
+  
 </div>
+<div id="profile views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=ismael616&style=flat-square&color=blue" alt="profile views"/>
+</div>
+<h1 align="center"> Hi there 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+<h2 align="center"> Data Enthusiast / Python Developer  
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</h2>
 👋Salut, je suis @Nelly-98
 
 👀Je suis intéressé par les métiers Data-Analyst, Data-Scientist
