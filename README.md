@@ -35,6 +35,9 @@
    <a href="https://git-scm.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="70" height="70"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
   <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="70" height="70"/></a>&nbsp;
+  <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Azure" alt="Azure" width="70" height="70"/></a>&nbsp;
+  <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Azure" alt="Azure" width="70" height="70"/></a>&nbsp;
+  <a href="https://azure.microsoft.com/en-us" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Azure" alt="Azure" width="70" height="70"/></a>&nbsp;
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
