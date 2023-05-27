@@ -8,14 +8,14 @@
 <h1 align="center"> Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h2 align="center"> Data Engineer  
+<h2 align="center"> Data Analyst | Data Engineer  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h2>
 👋Salut, je suis @Nelly-98
 
-👀Je suis intéressé par les métiers Data-Analyst, Data-Scientist
+👀Je suis intéressé par les métiers Data-Analyst, Data-Engineering
 
-🌱J'apprends actuellement l'analyse des données avec Python et SQLite, sur Jupyter Notebook, DB Browser for SQLite, Power BI et Hadoop
+🌱Je suis actuellement en Master II Data et IA en alternance chez OpenValue
 
 💞️Je cherche à collaborer sur Les BIGDATA
 
