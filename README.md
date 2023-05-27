@@ -27,6 +27,8 @@
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="70" height="70"/></a>&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/></a>&nbsp;
+  <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
+  <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="70" height="70"/></a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
   <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
 <a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/></a>&nbsp;
@@ -42,13 +44,8 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="70" height="70"/></a>&nbsp;
   <a href="https://www.java.com/fr/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="70" height="70"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="Js" width="70" height="70"/></a>&nbsp;
-  <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
-  <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=rlsavisitor&utm_source=google&utm_campaign=gs_emea_rlsamulti_search_core_brand_atlas_desktop_rlsa&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646455&adgroup=131761126492&gclid=CjwKCAjwqauVBhBGEiwAXOepkUEjVAHgCBG2wNGJYqxP5h9uBnk2t2o_hDfCijRvIJY9E9amG-tmhhoClPIQAvD_BwE" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongo" width="70" height="70"/></a>&nbsp;
-  <a href="https://numpy.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="70" height="70"/></a>&nbsp;
   <a href="https://opencv.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="Open Cv" alt="OpenCv" width="70" height="70"/></a>&nbsp;
- 
   <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="70" height="70"/></a>&nbsp;
-
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
   <!-- 
