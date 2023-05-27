@@ -26,7 +26,6 @@
 <div>
   <a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootsrap" width="70" height="70"/></a>&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="70" height="70"/></a>&nbsp;
   <a href="https://www.canva.com/tools/logo-maker-q1/?clickId=w671MsReixyIUGuwFGT2H2vQUkDz3iWZAWLTVc0&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC_10813&irgwc=1" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/></a>&nbsp;
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" w#idth="70" height="70"/></a>&nbsp;
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="70" height="70"/></a>&nbsp;
