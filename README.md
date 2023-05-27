@@ -81,7 +81,7 @@
 <h3>Leet Code</h3>
 <a href="https://leetcode.com/LAzyT/"><img src="https://leetcode.card.workers.dev/LazyT?theme=dark&font=baloo&extension=null" alt="Leet code Stats"></a> 
 <h3>Code Wars</h3>
-<a href="https://www.codewars.com/users/Ismael616"><img src="https://www.codewars.com/users/Nelly-98/badges/large" alt="Code Wars"></a>
+<a href="https://www.codewars.com/users/Nelly-98"><img src="https://www.codewars.com/users/Nelly-98/badges/large" alt="Code Wars"></a>
 </div>
  
  <br/>
