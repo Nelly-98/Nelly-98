@@ -41,9 +41,6 @@
   <a href="https://pandas.pydata.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="70" height="70"/></a>&nbsp;
   <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="php" width="70" height="70"/></a>&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="70" height="70"/></a>&nbsp;
-  <a href="https://www.r-project.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R Programming Language" alt="R" width="70" height="70"/></a>&nbsp;
-  <a href="https://www.rstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R studio" alt="rstudio" width="70" height="70"/></a>&nbsp;
-  <a href="https://www.selenium.dev/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="70" height="70"/></a>&nbsp;
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
   <a href="https://ubuntu.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="70" height="70"/></a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
@@ -51,6 +48,8 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
   <a href="https://www.kaggle.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="70" height="70"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
+  <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
   <!-- 
   <a href="" target="_blank"><img src="" title="" alt="" width="70" height="70"/></a>&nbsp;
 -->
