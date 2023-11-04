@@ -8,18 +8,18 @@
 <h1 align="center"> Hi there 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h2 align="center"> Data Analyst | Data Engineer  
+<h2 align="center"> Data Engineer  
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h2>
 👋Salut, je suis @Nelly-98
 
-👀Je suis intéressé par les métiers Data-Analyst, Data-Engineering
+👀Je suis intéressé par les métiers Data-Engineering
 
 🌱Je suis actuellement en Master II Data et IA en alternance chez OpenValue
 
 💞️Je cherche à collaborer sur Les BIGDATA
 
-📫Comment me joindre ? Je réponds au +33 7 52 08 73 93 ou par mail nelly.guepnang@gmail.com
+📫Comment me joindre ? Je réponds par mail nelly.guepnang@gmail.com
 
 ## 🛠️ Languages and Tools :
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
