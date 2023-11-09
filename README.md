@@ -77,12 +77,6 @@
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Nelly-98&theme=navy-gear&date_format=j%2Fn%5B%2FY%5D" alt="Nelly-98 Streaks"> </a>    
 </p>
 
-<div align="center">
-<h3>Leet Code</h3>
-<a href="https://leetcode.com/LAzyT/"><img src="https://leetcode.card.workers.dev/LazyT?theme=dark&font=baloo&extension=null" alt="Leet code Stats"></a> 
-<h3>Code Wars</h3>
-<a href="https://www.codewars.com/users/Nelly-98"><img src="https://www.codewars.com/users/Nelly-98/badges/large" alt="Code Wars"></a>
-</div>
  
  <br/>
 <p align="center"> 
