@@ -12,12 +12,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 </h2>
 👋Salut, je suis @Nelly-98
-
-👀Je suis intéressé par les métiers Data-Engineering
-
-🌱Je suis actuellement en Master II Data et IA en alternance chez OpenValue
-
-💞️Je cherche à collaborer sur Les BIGDATA
+Je suis un passionnée de Data Engineering et DevOps, spécialisée dans la conception et l'implémentation de solutions robustes et évolutives pour le traitement et l'analyse de données à grande échelle. Avec une solide formation en informatique et une expérience pratique de divers outils et technologies, je m'efforce d'optimiser les workflows de données et d'améliorer les systèmes d'infrastructure pour favoriser une prise de décision basée sur les données.
 
 📫Comment me joindre ? Je réponds par mail nelly.guepnang@gmail.com
 
